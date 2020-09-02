@@ -1,6 +1,6 @@
-#Circular barplot representing Gene Ontology Enrichment Analysis
+# Circular barplot representing Gene Ontology Enrichment Analysis
 
-##Author: Natalia Faraj Murad
+## Author: Natalia Faraj Murad
 
 This code creates a circular barplot representation of Gene
 Ontology data from topGO enrichment analysis. This code was
@@ -9,6 +9,8 @@ and adapted for our data. This analysis is available on
 Silva-Brandao et al (2020) Transcriptome differential co-expression 
 reveals distinct molecular response of fall-armyworm strains to DIMBOA.
 DOI: 10.1002/ps.6051 Journal: Pest Management Science.
+
+### File Description
 
 This folder contains the following files:
 
